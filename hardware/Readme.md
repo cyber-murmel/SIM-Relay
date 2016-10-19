@@ -1,6 +1,6 @@
 
-<img src="./img/brd.png" alt="Drawing" style="width: 200px;"/>
-<img src="https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/sch.png" alt="Drawing" style="width: 200px;"/>
+<img src="./img/brd.png" alt="Board" style="width: 100px;"/>
+<img src="./img/sch.png" alt="Schematic" style="width: 100px;"/>
 
 
 |Part(s) |Value |
