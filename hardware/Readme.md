@@ -1,6 +1,6 @@
 
-!(https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/brd.png)
-!(https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/sch.png)
+![](https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/brd.png)
+![](https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/sch.png)
 |Part(s) |Value |
 |---|---|
 | C1, C2 | according to crystal (e.g. 15pF) |
