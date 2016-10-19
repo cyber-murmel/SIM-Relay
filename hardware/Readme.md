@@ -1,6 +1,6 @@
 
-<img src="./img/brd.png" alt="Board" width="200"/>
-<img src="./img/sch.png" alt="Schematic" width="200"/>
+<img src="./img/brd.png" alt="Board" width="40%"/>
+<img src="./img/sch.png" alt="Schematic" width="40%"/>
 
 
 |Part(s) |Value |
