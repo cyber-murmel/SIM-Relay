@@ -1,6 +1,6 @@
 
-![](https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/brd.png)
-![](https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/sch.png)
+![](https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/brd.png =100x)
+![](https://raw.githubusercontent.com/plushvoxel/SIM-Relay/master/hardware/img/sch.png =100x)
 
 |Part(s) |Value |
 |---|---|
