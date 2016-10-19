@@ -1,7 +1,7 @@
+I have the board uploaded to [OSH Park](https://oshpark.com/shared_projects/abhypSsD) if you want to order some.
 
 <img src="./img/brd.png" alt="Board" width="40%"/>
 <img src="./img/sch.png" alt="Schematic" width="40%"/>
-
 
 |Part(s) |Value |
 |---|---|
